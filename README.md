@@ -3,10 +3,11 @@ Un simple modeleur 3D pour créer de simple objets
 Utilisation de fichier maison, .vx.
 
 # TODO
--OBJ import/export (assimp)
+- OBJ import/export (assimp)
 
--Normal Map
+- Normal Map
 
--Animation
+- Animation
 
--bones
+
+- bones
