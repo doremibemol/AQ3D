@@ -4,6 +4,9 @@ Utilisation de fichier maison, .vx.
 
 # TODO
 -OBJ import/export (assimp)
+
 -Normal Map
+
 -Animation
+
 -bones
