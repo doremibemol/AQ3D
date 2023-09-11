@@ -1,4 +1,4 @@
-# HQ3D
+# AQ3D
 Un simple modeleur 3D pour créer de simple objets
 Utilisation de fichier maison, .vx.
 
